@@ -1,3 +1,8 @@
+1.0.11
+===================
+* Fix overlapping voucher input
+
+
 1.0.10
 ===================
 * show chat icon on every wifi devices and directly chat them
