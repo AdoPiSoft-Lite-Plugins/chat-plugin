@@ -1,6 +1,9 @@
 1.0.11
 ===================
-* Fix overlapping voucher input
+* Fix overlapping voucher input on ado v5
+* Fix overlapping w/ facebook messenger plugin
+
+_Requires clearing browser cache or opening in incognito to reflect changes_
 
 
 1.0.10
